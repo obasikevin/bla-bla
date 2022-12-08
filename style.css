@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.snazzy-1 {
+    background-image: url(./image/roberto-nickson-uhAhONlCKhY-unsplash\ 1.png);
+    height: 30vh;
+}
+
+.snazzy-2 {
+    background-image: url(./image/Rectangle\ 5.png);
+    height: 100vh;
+}
+
+.first-image {
+    /* position: relative; */
+    height: 658px;
+    width: 1092px;
+    left: 154px;
+    top: 102px;
+    border-radius: 10px;
+
+}
+
+.first {
+    border-right: 2px solid grey;
+    text-align: center;
+}
+
+.col {
+    height: 29px;
+    background: rgba(19, 87, 220, 0.19);
+    border-radius: 41px;
+}
